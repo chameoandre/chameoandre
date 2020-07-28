@@ -1,4 +1,4 @@
-### Hi there 👋
+### E ai pessoal 👋, agora estou voltando a ativa, mas em passos lentos, pois fiquei um bom tempo sem programar praticamente nada ;). Muitas aulas, imersões e aprendizados diversos.
 
 <!--
 **chameoandre/chameoandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
