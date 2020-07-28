@@ -1,6 +1,9 @@
-### E ai pessoal 👋, agora estou voltando a ativa, mas em passos lentos, pois fiquei um bom tempo sem programar praticamente nada ;). Muitas aulas, imersões e aprendizados diversos.
+### E ai pessoal 👋, agora estou voltando a ativa, mas em passos lentos, pois fiquei um bom tempo sem programar praticamente nada ;). Muitas aulas, imersões e aprendizados diversos. 
 
-Would you like to find me?
+javaScript na veia e seguimos em frente 😄 
+
+Veja os locais onde você pode me encontrar: 
+
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/AndreMoraes-chameoandre)](https://www.youtube.com/c/AndreMoraes-chameoandre)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chameoandre)](https://twitter.com/chameoandre)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-moraes-b9554659/)](https://www.linkedin.com/in/andre-moraes-b9554659/)
