@@ -3,12 +3,7 @@
 🔭 I’m currently working on Student Research in Università di Pisa, in Pisa/Italy.
 🌱 I’m currently learning Adaptive Bitrate Streaming in Edge Layers
 👯 I’m looking to collaborate on Adaptive Streaming technicques or algorithms.
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+
 Look where you can find me: 
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/AndreMoraes-chameoandre)](https://www.youtube.com/c/AndreMoraes-chameoandre)
