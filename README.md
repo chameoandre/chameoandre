@@ -1,8 +1,15 @@
-### E ai pessoal 👋, agora estou voltando a ativa, mas em passos lentos, pois fiquei um bom tempo sem programar praticamente nada ;). Muitas aulas, imersões e aprendizados diversos. 
+### Hi guys, welcome into my code space 👋. Actually I'm activating again this local and I'll put some implementations here, specially for Video Streaming technologies. Look something about me below...
 
-javaScript na veia e seguimos em frente 😄 
-
-Veja os locais onde você pode me encontrar: 
+🔭 I’m currently working on Student Research in Università di Pisa, in Pisa/Italy.
+🌱 I’m currently learning Adaptive Bitrate Streaming in Edge Layers
+👯 I’m looking to collaborate on Adaptive Streaming technicques or algorithms.
+- 🤔 I’m looking for help with 
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 
+Look where you can find me: 
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/AndreMoraes-chameoandre)](https://www.youtube.com/c/AndreMoraes-chameoandre)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chameoandre)](https://twitter.com/chameoandre)
